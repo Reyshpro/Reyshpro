@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reyyen</h1>
-<h3 align="center">A passionate frontend developer from Syria</h3>
+<h3 align="center">A passionate frontend developer from Syria Living in Turkey</h3>
 
 - 🔭 I’m currently working on **Maze runner game**
 
