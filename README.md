@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reyyen</h1>
-<h3 align="center">Frontend Developer • Web & Mobile (React & React Native)</h3>
+<h3 align="center">Aspiring Full Stack Developer • Web & Mobile (React & React Native)</h3>
 
 <p align="center">
 I build clean, responsive, and user-focused interfaces for web and mobile applications.<br/>
