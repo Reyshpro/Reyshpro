@@ -10,7 +10,7 @@ Passionate about turning ideas into smooth, real-world products.
 
 ### 🚀 About Me
 
-- 💻 Frontend Developer working with **Web & Mobile**
+- 💻 Software Developer working with **Web & Mobile**
 - 🧠 Strong focus on **JavaScript, React, TypeScript, and React Native**
 - 🎨 I care about **UI/UX**, usability, and clean design
 - 🤝 Open to **collaborations**, internships, and exciting frontend projects
