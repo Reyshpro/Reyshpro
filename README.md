@@ -1,59 +1,72 @@
-<h1 align="center">Hi 👋, I'm Reyyen</h1>
-<h3 align="center">Aspiring Full Stack Developer • Web & Mobile (React & React Native)</h3>
+<div align="center">
 
-<p align="center">
-I build clean, responsive, and user-focused interfaces for web and mobile applications.<br/>
-Passionate about turning ideas into smooth, real-world products.
+# Hi there, I'm Reyyen 👋
+
+### Aspiring Full Stack Developer
+#### Web & Mobile · React · Next.js · TypeScript · React Native
+
+<p>
+  I build clean, responsive, and user-focused interfaces for web and mobile applications.<br/>
+  Passionate about turning ideas into smooth, real-world products.
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reyyen%20Şehebi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyyen-%C5%9Fehebi/)
+[![Email](https://img.shields.io/badge/Email-reyyensehebi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyyensehebi@gmail.com)
+
+</div>
 
 ---
 
-### 🚀 About Me
-
-- 💻 Software Developer working with **Web & Mobile**
-- 🧠 Strong focus on **JavaScript, React, TypeScript, and React Native**
-- 🎨 I care about **UI/UX**, usability, and clean design
-- 🤝 Open to **collaborations**, internships, and exciting frontend projects
-- 📫 Reach me at **reyyensehebi@gmail.com**
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/reyyen-%C5%9Fehebi/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
+## 🚀 About Me
+🌍  Based in Turkey <br>
+💻  Building for Web & Mobile <br>
+🎨  UI/UX focused — I care about how things look AND feel <br>
+🧠  Deep in JS · TS · React · Next.js · React Native <br>
+🤝  Open to collaborations, internships & full-stack projects <br>
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
-#### Frontend & Mobile
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-</p>
+### 🖥️ Frontend & Mobile
 
-#### UI / UX & Tools
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-#### Other Experience (Backend, Databases & Game Dev)
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
-</p>
+### 🎨 UI/UX & Design Tools
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+### ⚙️ Backend & Runtime
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### 🗄️ Databases & Data
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### 🛠️ Tools & Other
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ---
 
-
+<div align="center">
+  <i>Let's connect and build something great together!</i> 🚀
+</div>
